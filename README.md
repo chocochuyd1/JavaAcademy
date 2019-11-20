@@ -1,4 +1,5 @@
 # JavaAcademy
-Holiii
+Hello World!!
 hahahaha
-Day 1 Softtek Academy Java
+Day 2 Softtek Java Academy
+Branches
